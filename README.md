@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 This project was built during learning how to review pull request on GitHub.
-Lab Link: https://lab.github.com/githubtraining/reviewing-pull-requests
+check that Lab: [here](https://lab.github.com/githubtraining/reviewing-pull-requests)
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
